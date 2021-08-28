@@ -1,0 +1,17 @@
+https://documenter.getpostman.com/view/14657467/TzzHmt6i 
+This documentation Of  API 
+
+1- Employees
+         * http://127.0.0.1:8000/api/employee       This Get All Employee        (GET Request )
+         * http://127.0.0.1:8000/api/employee/1      This Search Of employees (GET Request )
+         * http://127.0.0.1:8000/api/employee           Add Employee  (POST Request)
+         * http://127.0.0.1:8000/api/employee/4         Edit Employee (PUT Request)
+         * http://127.0.0.1:8000/api/employee/5          Delete employee (DELETE Request)
+         * http://127.0.0.1:8000/api/register                  Register Admin (POST Request)
+         * http://127.0.0.1:8000/api/login                       Login Admin  (POST Request)
+         * http://127.0.0.1:8000/api/logout                 Logout Admin  (POST Request)
+2- Attendance 
+         * http://127.0.0.1:8000/api/attendance                          Make Attendance  (POST Request)
+         * http://127.0.0.1:8000/api/attendance-Leave/11           Attendance Leave    (GET Request)
+         * http://127.0.0.1:8000/api/attendance-show                   Attendance Show      (POST Request)
+         * http://127.0.0.1:8000/api/attendance-Best-employee       Attendance Best Employee   (POST Request)
